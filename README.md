@@ -22,7 +22,7 @@
 
 <h3 align="center">💗Things I like💗</h3>
 
-
+<p align="center"><a href="[https://www.riotgames.com/ko]" target="_blank"><img src="https://img.shields.io/badge/[Riot Games]-[D32936]?style=flat-square&logo=[RiotGames]&logoColor=white"/></a></p>
 
 
 
