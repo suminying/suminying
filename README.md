@@ -13,7 +13,7 @@
 <h3 align="center">🤍Tech Stack🤍</h3>
 
 <p align="center">the skills one is learning hard</p>
-<p align="center"><img src="https://img.shields.io/badge/Python-376AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp</h3> 
+<p<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp</p> 
 
 
 
