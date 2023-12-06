@@ -22,7 +22,7 @@
 
 <h3 align="center">💗Things I like💗</h3>
 
- <p align="center"><a href="https://www.instagram.com/su_minying/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> <a href="https://www.riotgames.com/ko" target="_blank"><img src="https://img.shields.io/badge/Games-D32936?style=flat-square&logo=YoutubeGaming&logoColor=white"/></a> <a href="[https://music.youtube.com/channel/UCEdZAdnnKqbaHOlv8nM6OtA](https://www.youtube.com/channel/UC9GtSLeksfK4yuJ_g1lgQbg)" target="_blank"><img src="https://img.shields.io/badge/Music-2D4999?style=flat-square&logo=youtubemusic&logoColor=white"/></a></p>
+ <p align="center"><a href="https://www.instagram.com/su_minying/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> <a href="https://www.riotgames.com/ko" target="_blank"><img src="https://img.shields.io/badge/Games-D32936?style=flat-square&logo=YoutubeGaming&logoColor=white"/></a> <a href="https://www.youtube.com/channel/UC9GtSLeksfK4yuJ_g1lgQbg" target="_blank"><img src="https://img.shields.io/badge/Music-2D4999?style=flat-square&logo=youtubemusic&logoColor=white"/></a>></p>
 
 
 
