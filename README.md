@@ -14,6 +14,7 @@
 
 <p align="center">the skills one is learning hard</p>
 <p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp</p>
+<p align="center"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp</p>  
 
 
 
