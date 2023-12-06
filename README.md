@@ -21,7 +21,7 @@
  <p align="center"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp</p>
 
 <h3 align="center">💗Things I like💗</h3>
-<a href="[https://www.leagueoflegends.com/ko-kr/?utm_medium=card1%2Bwww.riotgames.com&utm_source=riotbar]" target="_blank"><img src="https://img.shields.io/badge/[LoL]-[008080]?style=flat-square&logo=[LOL]&logoColor=white"/></a>
+
 
 
 
