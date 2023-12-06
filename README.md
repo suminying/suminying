@@ -22,7 +22,7 @@
 
 <h3 align="center">💗Things I like💗</h3>
 
-<a href="https://www.riotgames.com/ko" target="_blank"><img src="https://img.shields.io/badge/Riot Games-D32936?style=flat-square&logo=RiotGames&logoColor=white"/></a>
+ <p align="center"><a href="https://www.instagram.com/su_minying/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a><a href="https://www.riotgames.com/ko" target="_blank"><img src="https://img.shields.io/badge/Riot Games-D32936?style=flat-square&logo=RiotGames&logoColor=white"/></a><a href="https://music.youtube.com/channel/UCEdZAdnnKqbaHOlv8nM6OtA" target="_blank"><img src="https://img.shields.io/badge/Muzik-2D4999?style=flat-square&logo=youtubemusic&logoColor=white"/></a></p>
 
 
 
